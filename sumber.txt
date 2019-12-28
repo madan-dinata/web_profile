@@ -1,2 +1,3 @@
-menggunakan framework bootstrap
+Untuk belajar
+menggunakan framework bootstrap 3
 sumber dari youtube WPU
